@@ -1,6 +1,6 @@
 """
 Orchestrateur : exécute tout le pipeline dans l'ordre.
-
+ 
     python run_all.py
 
 Enchaîne : inspection XML -> génération XSD -> validation + mapping ->
