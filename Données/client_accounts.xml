@@ -1,0 +1,2931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+  <account>
+    <account_id>ACCT00001</account_id>
+    <client_id>CL00036</client_id>
+    <client_name>Lucas Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2018-12-23</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00002</account_id>
+    <client_id>CL00018</client_id>
+    <client_name>Antoine Laurent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2022-09-15</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00003</account_id>
+    <client_id>CL00011</client_id>
+    <client_name>Lucas Roux</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2020-05-31</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00004</account_id>
+    <client_id>CL00042</client_id>
+    <client_name>Lina Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2024-01-06</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00005</account_id>
+    <client_id>CL00048</client_id>
+    <client_name>Nora Moreau</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2024-06-22</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00006</account_id>
+    <client_id>CL00031</client_id>
+    <client_name>Thomas Roux</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2021-02-12</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00007</account_id>
+    <client_id>CL00066</client_id>
+    <client_name>Mehdi Robert</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2024-10-31</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00008</account_id>
+    <client_id>CL00004</client_id>
+    <client_name>Antoine Thomas</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2021-08-21</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00009</account_id>
+    <client_id>CL00009</client_id>
+    <client_name>Marie Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2020-05-20</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00010</account_id>
+    <client_id>CL00068</client_id>
+    <client_name>Antoine Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2022-10-21</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00011</account_id>
+    <client_id>CL00077</client_id>
+    <client_name>Nora Thomas</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2025-08-19</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00012</account_id>
+    <client_id>CL00075</client_id>
+    <client_name>Jean Vincent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2025-08-18</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00013</account_id>
+    <client_id>CL00028</client_id>
+    <client_name>Paul Durand</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2018-01-14</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00014</account_id>
+    <client_id>CL00019</client_id>
+    <client_name>Nora Vincent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2024-10-30</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00015</account_id>
+    <client_id>CL00024</client_id>
+    <client_name>Lea Martin</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2018-03-21</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00016</account_id>
+    <client_id>CL00041</client_id>
+    <client_name>Antoine Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2018-10-11</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00017</account_id>
+    <client_id>CL00014</client_id>
+    <client_name>Emma Roux</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>Monaco</client_country>
+    <tax_jurisdiction>MC</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2024-01-18</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00018</account_id>
+    <client_id>CL00040</client_id>
+    <client_name>Nora Durand</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Singapore</client_country>
+    <tax_jurisdiction>SG</tax_jurisdiction>
+    <residence_region>APAC</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2021-10-16</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00019</account_id>
+    <client_id>CL00074</client_id>
+    <client_name>Lea Robert</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2018-05-09</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00020</account_id>
+    <client_id>CL00020</client_id>
+    <client_name>Nora Leroy</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2024-06-18</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00021</account_id>
+    <client_id>CL00049</client_id>
+    <client_name>Julien Petit</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2023-03-28</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00022</account_id>
+    <client_id>CL00021</client_id>
+    <client_name>Sara Michel</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2024-01-06</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00023</account_id>
+    <client_id>CL00006</client_id>
+    <client_name>Marie Durand</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2019-02-06</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00024</account_id>
+    <client_id>CL00049</client_id>
+    <client_name>Julien Petit</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2023-05-26</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00025</account_id>
+    <client_id>CL00032</client_id>
+    <client_name>Lea Moreau</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2021-03-14</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00026</account_id>
+    <client_id>CL00023</client_id>
+    <client_name>Emma Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2018-09-07</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00027</account_id>
+    <client_id>CL00034</client_id>
+    <client_name>Thomas Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2018-11-25</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00028</account_id>
+    <client_id>CL00009</client_id>
+    <client_name>Marie Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2018-06-12</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00029</account_id>
+    <client_id>CL00083</client_id>
+    <client_name>Nicolas Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2020-09-04</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00030</account_id>
+    <client_id>CL00032</client_id>
+    <client_name>Lea Moreau</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2024-04-25</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00031</account_id>
+    <client_id>CL00043</client_id>
+    <client_name>Claire Martin</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2021-03-13</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00032</account_id>
+    <client_id>CL00045</client_id>
+    <client_name>Ines Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2021-05-11</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00033</account_id>
+    <client_id>CL00083</client_id>
+    <client_name>Nicolas Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2024-10-13</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00034</account_id>
+    <client_id>CL00028</client_id>
+    <client_name>Paul Durand</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2021-02-07</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00035</account_id>
+    <client_id>CL00051</client_id>
+    <client_name>Mehdi Robin</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Monaco</client_country>
+    <tax_jurisdiction>MC</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2019-04-04</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00036</account_id>
+    <client_id>CL00026</client_id>
+    <client_name>Lea David</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2018-06-21</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00037</account_id>
+    <client_id>CL00049</client_id>
+    <client_name>Julien Petit</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2022-07-23</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00038</account_id>
+    <client_id>CL00084</client_id>
+    <client_name>Nora Vincent</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2022-08-14</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00039</account_id>
+    <client_id>CL00016</client_id>
+    <client_name>Ines Durand</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2021-12-03</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00040</account_id>
+    <client_id>CL00070</client_id>
+    <client_name>Sara Garcia</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2021-02-17</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00041</account_id>
+    <client_id>CL00045</client_id>
+    <client_name>Ines Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2018-06-06</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00042</account_id>
+    <client_id>CL00038</client_id>
+    <client_name>Nora Richard</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2020-02-18</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00043</account_id>
+    <client_id>CL00081</client_id>
+    <client_name>Julien Petit</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2022-01-31</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00044</account_id>
+    <client_id>CL00087</client_id>
+    <client_name>Louis Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2021-06-20</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00045</account_id>
+    <client_id>CL00067</client_id>
+    <client_name>Julien Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2024-11-26</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00046</account_id>
+    <client_id>CL00070</client_id>
+    <client_name>Sara Garcia</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2023-03-20</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00047</account_id>
+    <client_id>CL00073</client_id>
+    <client_name>Nicolas Robin</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Arab Emirates</client_country>
+    <tax_jurisdiction>AE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2021-03-08</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00048</account_id>
+    <client_id>CL00006</client_id>
+    <client_name>Marie Durand</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2024-11-08</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00049</account_id>
+    <client_id>CL00052</client_id>
+    <client_name>Sara Garcia</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Arab Emirates</client_country>
+    <tax_jurisdiction>AE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2019-03-13</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00050</account_id>
+    <client_id>CL00002</client_id>
+    <client_name>Paul Petit</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2025-06-27</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00051</account_id>
+    <client_id>CL00050</client_id>
+    <client_name>Nicolas Garcia</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2023-01-01</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00052</account_id>
+    <client_id>CL00027</client_id>
+    <client_name>Julien David</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2023-06-08</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00053</account_id>
+    <client_id>CL00030</client_id>
+    <client_name>Ines Garcia</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2020-08-05</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00054</account_id>
+    <client_id>CL00072</client_id>
+    <client_name>Sophie Petit</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2022-09-17</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00055</account_id>
+    <client_id>CL00014</client_id>
+    <client_name>Emma Roux</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>Monaco</client_country>
+    <tax_jurisdiction>MC</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2021-05-08</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00056</account_id>
+    <client_id>CL00047</client_id>
+    <client_name>Thomas Roux</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2020-06-17</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00057</account_id>
+    <client_id>CL00067</client_id>
+    <client_name>Julien Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2019-06-07</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00058</account_id>
+    <client_id>CL00064</client_id>
+    <client_name>Ines Robin</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2020-01-15</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00059</account_id>
+    <client_id>CL00033</client_id>
+    <client_name>Lucas Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2020-10-30</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00060</account_id>
+    <client_id>CL00034</client_id>
+    <client_name>Thomas Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2018-05-08</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00061</account_id>
+    <client_id>CL00054</client_id>
+    <client_name>Thomas Dubois</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2023-03-20</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00062</account_id>
+    <client_id>CL00009</client_id>
+    <client_name>Marie Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2021-06-28</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00063</account_id>
+    <client_id>CL00071</client_id>
+    <client_name>Nicolas Laurent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2018-11-08</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00064</account_id>
+    <client_id>CL00019</client_id>
+    <client_name>Nora Vincent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2023-12-23</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00065</account_id>
+    <client_id>CL00083</client_id>
+    <client_name>Nicolas Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2022-11-11</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00066</account_id>
+    <client_id>CL00018</client_id>
+    <client_name>Antoine Laurent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2023-06-04</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00067</account_id>
+    <client_id>CL00077</client_id>
+    <client_name>Nora Thomas</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2020-09-25</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00068</account_id>
+    <client_id>CL00065</client_id>
+    <client_name>Paul Roux</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2020-11-24</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00069</account_id>
+    <client_id>CL00050</client_id>
+    <client_name>Nicolas Garcia</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2023-06-25</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00070</account_id>
+    <client_id>CL00011</client_id>
+    <client_name>Lucas Roux</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2021-06-08</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00071</account_id>
+    <client_id>CL00017</client_id>
+    <client_name>Sara Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2021-01-14</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00072</account_id>
+    <client_id>CL00069</client_id>
+    <client_name>Camille Leroy</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2023-06-07</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00073</account_id>
+    <client_id>CL00017</client_id>
+    <client_name>Sara Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2020-01-05</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00074</account_id>
+    <client_id>CL00007</client_id>
+    <client_name>Lina Richard</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2025-02-25</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00075</account_id>
+    <client_id>CL00087</client_id>
+    <client_name>Louis Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2020-10-31</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00076</account_id>
+    <client_id>CL00077</client_id>
+    <client_name>Nora Thomas</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2024-04-24</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00077</account_id>
+    <client_id>CL00014</client_id>
+    <client_name>Emma Roux</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>Monaco</client_country>
+    <tax_jurisdiction>MC</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2023-11-11</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00078</account_id>
+    <client_id>CL00062</client_id>
+    <client_name>Emma Robin</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>United Arab Emirates</client_country>
+    <tax_jurisdiction>AE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2024-11-02</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00079</account_id>
+    <client_id>CL00016</client_id>
+    <client_name>Ines Durand</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2019-10-04</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00080</account_id>
+    <client_id>CL00041</client_id>
+    <client_name>Antoine Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2018-10-19</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00081</account_id>
+    <client_id>CL00041</client_id>
+    <client_name>Antoine Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2019-08-06</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00082</account_id>
+    <client_id>CL00061</client_id>
+    <client_name>Jean Robin</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2021-05-30</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00083</account_id>
+    <client_id>CL00071</client_id>
+    <client_name>Nicolas Laurent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2024-10-08</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00084</account_id>
+    <client_id>CL00089</client_id>
+    <client_name>Ines Garcia</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2018-06-14</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00085</account_id>
+    <client_id>CL00007</client_id>
+    <client_name>Lina Richard</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2023-04-10</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00086</account_id>
+    <client_id>CL00070</client_id>
+    <client_name>Sara Garcia</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2024-03-03</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00087</account_id>
+    <client_id>CL00033</client_id>
+    <client_name>Lucas Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2025-05-17</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00088</account_id>
+    <client_id>CL00080</client_id>
+    <client_name>Camille David</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2020-04-13</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00089</account_id>
+    <client_id>CL00022</client_id>
+    <client_name>Sophie Bernard</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2020-09-07</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00090</account_id>
+    <client_id>CL00074</client_id>
+    <client_name>Lea Robert</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2025-04-07</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00091</account_id>
+    <client_id>CL00004</client_id>
+    <client_name>Antoine Thomas</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2023-02-14</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00092</account_id>
+    <client_id>CL00080</client_id>
+    <client_name>Camille David</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2021-10-24</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00093</account_id>
+    <client_id>CL00037</client_id>
+    <client_name>Marie Laurent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2023-01-04</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00094</account_id>
+    <client_id>CL00079</client_id>
+    <client_name>Thomas Petit</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2024-05-31</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00095</account_id>
+    <client_id>CL00060</client_id>
+    <client_name>Lea Bernard</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2023-07-22</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00096</account_id>
+    <client_id>CL00068</client_id>
+    <client_name>Antoine Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2018-03-04</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00097</account_id>
+    <client_id>CL00039</client_id>
+    <client_name>Sophie Lefebvre</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2025-04-15</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00098</account_id>
+    <client_id>CL00069</client_id>
+    <client_name>Camille Leroy</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2024-12-04</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00099</account_id>
+    <client_id>CL00068</client_id>
+    <client_name>Antoine Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2022-12-23</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00100</account_id>
+    <client_id>CL00059</client_id>
+    <client_name>Louis Petit</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2020-09-27</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00101</account_id>
+    <client_id>CL00057</client_id>
+    <client_name>Jean Lefebvre</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2023-08-01</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00102</account_id>
+    <client_id>CL00056</client_id>
+    <client_name>Claire Fontaine</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Singapore</client_country>
+    <tax_jurisdiction>SG</tax_jurisdiction>
+    <residence_region>APAC</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2019-10-10</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00103</account_id>
+    <client_id>CL00015</client_id>
+    <client_name>Emma Fontaine</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2020-03-26</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00104</account_id>
+    <client_id>CL00086</client_id>
+    <client_name>Louis Thomas</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2018-03-31</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00105</account_id>
+    <client_id>CL00032</client_id>
+    <client_name>Lea Moreau</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2024-10-22</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00106</account_id>
+    <client_id>CL00001</client_id>
+    <client_name>Jean Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2025-01-17</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00107</account_id>
+    <client_id>CL00084</client_id>
+    <client_name>Nora Vincent</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2021-04-23</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00108</account_id>
+    <client_id>CL00003</client_id>
+    <client_name>Hugo Martin</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2019-11-05</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00109</account_id>
+    <client_id>CL00017</client_id>
+    <client_name>Sara Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2019-07-31</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00110</account_id>
+    <client_id>CL00038</client_id>
+    <client_name>Nora Richard</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2023-02-06</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00111</account_id>
+    <client_id>CL00063</client_id>
+    <client_name>Ines Vincent</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2023-04-16</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00112</account_id>
+    <client_id>CL00059</client_id>
+    <client_name>Louis Petit</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2021-05-22</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00113</account_id>
+    <client_id>CL00087</client_id>
+    <client_name>Louis Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2019-07-10</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00114</account_id>
+    <client_id>CL00027</client_id>
+    <client_name>Julien David</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2024-11-26</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00115</account_id>
+    <client_id>CL00032</client_id>
+    <client_name>Lea Moreau</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2019-02-11</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00116</account_id>
+    <client_id>CL00066</client_id>
+    <client_name>Mehdi Robert</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2019-01-11</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00117</account_id>
+    <client_id>CL00036</client_id>
+    <client_name>Lucas Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2018-10-09</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00118</account_id>
+    <client_id>CL00029</client_id>
+    <client_name>Julien Vincent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2019-06-17</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00119</account_id>
+    <client_id>CL00088</client_id>
+    <client_name>Thomas Roux</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2019-12-15</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00120</account_id>
+    <client_id>CL00044</client_id>
+    <client_name>Louis Robin</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2024-08-28</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00121</account_id>
+    <client_id>CL00015</client_id>
+    <client_name>Emma Fontaine</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2025-03-20</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00122</account_id>
+    <client_id>CL00008</client_id>
+    <client_name>Nora Richard</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2018-11-27</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00123</account_id>
+    <client_id>CL00042</client_id>
+    <client_name>Lina Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2024-09-12</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00124</account_id>
+    <client_id>CL00056</client_id>
+    <client_name>Claire Fontaine</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Singapore</client_country>
+    <tax_jurisdiction>SG</tax_jurisdiction>
+    <residence_region>APAC</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2020-05-30</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00125</account_id>
+    <client_id>CL00063</client_id>
+    <client_name>Ines Vincent</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2022-10-15</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00126</account_id>
+    <client_id>CL00062</client_id>
+    <client_name>Emma Robin</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>United Arab Emirates</client_country>
+    <tax_jurisdiction>AE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2022-11-04</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00127</account_id>
+    <client_id>CL00008</client_id>
+    <client_name>Nora Richard</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2022-08-10</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00128</account_id>
+    <client_id>CL00009</client_id>
+    <client_name>Marie Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2020-05-21</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00129</account_id>
+    <client_id>CL00081</client_id>
+    <client_name>Julien Petit</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2020-07-15</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00130</account_id>
+    <client_id>CL00065</client_id>
+    <client_name>Paul Roux</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2018-04-29</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00131</account_id>
+    <client_id>CL00055</client_id>
+    <client_name>Julien Martin</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2018-10-13</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00132</account_id>
+    <client_id>CL00007</client_id>
+    <client_name>Lina Richard</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2022-02-24</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00133</account_id>
+    <client_id>CL00046</client_id>
+    <client_name>Jean Moreau</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2025-07-23</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00134</account_id>
+    <client_id>CL00068</client_id>
+    <client_name>Antoine Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2021-11-14</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00135</account_id>
+    <client_id>CL00021</client_id>
+    <client_name>Sara Michel</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2018-08-13</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00136</account_id>
+    <client_id>CL00075</client_id>
+    <client_name>Jean Vincent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2019-12-21</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00137</account_id>
+    <client_id>CL00008</client_id>
+    <client_name>Nora Richard</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2022-11-22</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00138</account_id>
+    <client_id>CL00074</client_id>
+    <client_name>Lea Robert</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2019-04-17</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00139</account_id>
+    <client_id>CL00078</client_id>
+    <client_name>Mehdi Moreau</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2022-11-24</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00140</account_id>
+    <client_id>CL00005</client_id>
+    <client_name>Antoine Dubois</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Monaco</client_country>
+    <tax_jurisdiction>MC</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2021-09-26</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00141</account_id>
+    <client_id>CL00043</client_id>
+    <client_name>Claire Martin</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2020-08-25</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00142</account_id>
+    <client_id>CL00080</client_id>
+    <client_name>Camille David</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2023-03-16</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00143</account_id>
+    <client_id>CL00082</client_id>
+    <client_name>Ines Robin</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2023-04-05</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00144</account_id>
+    <client_id>CL00066</client_id>
+    <client_name>Mehdi Robert</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2018-08-22</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00145</account_id>
+    <client_id>CL00040</client_id>
+    <client_name>Nora Durand</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Singapore</client_country>
+    <tax_jurisdiction>SG</tax_jurisdiction>
+    <residence_region>APAC</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2023-01-17</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00146</account_id>
+    <client_id>CL00087</client_id>
+    <client_name>Louis Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2018-12-12</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00147</account_id>
+    <client_id>CL00076</client_id>
+    <client_name>Paul Lefebvre</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2022-05-06</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00148</account_id>
+    <client_id>CL00041</client_id>
+    <client_name>Antoine Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2025-08-10</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00149</account_id>
+    <client_id>CL00025</client_id>
+    <client_name>Marie Richard</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Singapore</client_country>
+    <tax_jurisdiction>SG</tax_jurisdiction>
+    <residence_region>APAC</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2025-05-11</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00150</account_id>
+    <client_id>CL00061</client_id>
+    <client_name>Jean Robin</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2019-01-18</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00151</account_id>
+    <client_id>CL00058</client_id>
+    <client_name>Julien Vincent</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2020-02-26</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00152</account_id>
+    <client_id>CL00059</client_id>
+    <client_name>Louis Petit</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2018-06-04</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00153</account_id>
+    <client_id>CL00042</client_id>
+    <client_name>Lina Simon</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2019-11-10</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00154</account_id>
+    <client_id>CL00063</client_id>
+    <client_name>Ines Vincent</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2023-12-28</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00155</account_id>
+    <client_id>CL00025</client_id>
+    <client_name>Marie Richard</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Singapore</client_country>
+    <tax_jurisdiction>SG</tax_jurisdiction>
+    <residence_region>APAC</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2022-04-14</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00156</account_id>
+    <client_id>CL00053</client_id>
+    <client_name>Paul Moreau</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2024-03-21</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00157</account_id>
+    <client_id>CL00046</client_id>
+    <client_name>Jean Moreau</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2019-08-27</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00158</account_id>
+    <client_id>CL00010</client_id>
+    <client_name>Mehdi Robert</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2022-03-12</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00159</account_id>
+    <client_id>CL00035</client_id>
+    <client_name>Lucas Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2019-08-22</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00160</account_id>
+    <client_id>CL00044</client_id>
+    <client_name>Louis Robin</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2018-03-19</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00161</account_id>
+    <client_id>CL00070</client_id>
+    <client_name>Sara Garcia</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2020-08-31</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00162</account_id>
+    <client_id>CL00058</client_id>
+    <client_name>Julien Vincent</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2024-09-10</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00163</account_id>
+    <client_id>CL00040</client_id>
+    <client_name>Nora Durand</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Singapore</client_country>
+    <tax_jurisdiction>SG</tax_jurisdiction>
+    <residence_region>APAC</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2024-05-26</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00164</account_id>
+    <client_id>CL00085</client_id>
+    <client_name>Mehdi Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2024-03-19</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00165</account_id>
+    <client_id>CL00012</client_id>
+    <client_name>Antoine Lefebvre</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Singapore</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2018-10-04</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00166</account_id>
+    <client_id>CL00075</client_id>
+    <client_name>Jean Vincent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2025-03-17</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00167</account_id>
+    <client_id>CL00047</client_id>
+    <client_name>Thomas Roux</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2018-06-01</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00168</account_id>
+    <client_id>CL00057</client_id>
+    <client_name>Jean Lefebvre</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2023-04-24</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00169</account_id>
+    <client_id>CL00036</client_id>
+    <client_name>Lucas Fontaine</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2022-02-16</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00170</account_id>
+    <client_id>CL00028</client_id>
+    <client_name>Paul Durand</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2020-12-28</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00171</account_id>
+    <client_id>CL00050</client_id>
+    <client_name>Nicolas Garcia</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2018-11-24</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00172</account_id>
+    <client_id>CL00039</client_id>
+    <client_name>Sophie Lefebvre</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2018-06-23</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00173</account_id>
+    <client_id>CL00013</client_id>
+    <client_name>Lea Leroy</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Belgium</client_country>
+    <tax_jurisdiction>BE</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Dubai</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>BNP Paribas Securities Services</primary_custodian>
+    <opened_date>2022-01-28</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00174</account_id>
+    <client_id>CL00038</client_id>
+    <client_name>Nora Richard</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>United Kingdom</client_country>
+    <tax_jurisdiction>UK</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2022-01-23</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00175</account_id>
+    <client_id>CL00075</client_id>
+    <client_name>Jean Vincent</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2024-06-08</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00176</account_id>
+    <client_id>CL00064</client_id>
+    <client_name>Ines Robin</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2023-08-07</opened_date>
+    <migration_wave>Wave 4</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00177</account_id>
+    <client_id>CL00012</client_id>
+    <client_name>Antoine Lefebvre</client_name>
+    <client_segment>VHNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Dynamic</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2023-07-05</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>active</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00178</account_id>
+    <client_id>CL00060</client_id>
+    <client_name>Lea Bernard</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2025-06-28</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00179</account_id>
+    <client_id>CL00040</client_id>
+    <client_name>Nora Durand</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Singapore</client_country>
+    <tax_jurisdiction>SG</tax_jurisdiction>
+    <residence_region>APAC</residence_region>
+    <source_branch>BR_GVA_01</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>Euroclear</primary_custodian>
+    <opened_date>2022-01-20</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00180</account_id>
+    <client_id>CL00060</client_id>
+    <client_name>Lea Bernard</client_name>
+    <client_segment>UHNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Luxembourg</booking_center>
+    <risk_profile>Conservative</risk_profile>
+    <primary_custodian>Clearstream</primary_custodian>
+    <opened_date>2023-03-30</opened_date>
+    <migration_wave>Wave 2</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00164</account_id>
+    <client_id>CL00085</client_id>
+    <client_name>Mehdi Leroy</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Switzerland</client_country>
+    <tax_jurisdiction>CH</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>J.P. Morgan Custody</primary_custodian>
+    <opened_date>2024-03-19</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00137</account_id>
+    <client_id>CL00008</client_id>
+    <client_name>Nora Richard</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>Luxembourg</client_country>
+    <tax_jurisdiction>LU</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_LUX_02</source_branch>
+    <booking_center>Paris</booking_center>
+    <risk_profile>Growth</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2022-11-22</opened_date>
+    <migration_wave>Wave 1</migration_wave>
+    <account_status>closed</account_status>
+  </account>
+  <account>
+    <account_id>ACCT00019</account_id>
+    <client_id>CL00074</client_id>
+    <client_name>Lea Robert</client_name>
+    <client_segment>HNW</client_segment>
+    <client_country>France</client_country>
+    <tax_jurisdiction>FR</tax_jurisdiction>
+    <residence_region>EMEA</residence_region>
+    <source_branch>BR_PAR_03</source_branch>
+    <booking_center>Geneva</booking_center>
+    <risk_profile>Balanced</risk_profile>
+    <primary_custodian>SIX SIS</primary_custodian>
+    <opened_date>2018-05-09</opened_date>
+    <migration_wave>Wave 3</migration_wave>
+    <account_status>inactive</account_status>
+  </account>
+</accounts>

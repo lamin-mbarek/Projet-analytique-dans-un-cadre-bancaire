@@ -1,0 +1,6 @@
+fichier,niveau,message
+accounts,BLOCK,3 ligne(s) entièrement dupliquée(s)
+accounts,BLOCK,"3 doublon(s) sur clé métier ['account_id'] — ex: [{'account_id': 'ACCT00019'}, {'account_id': 'ACCT00137'}, {'account_id': 'ACCT00164'}]"
+invoices,INFO,paid_date: 772 valeur(s) manquante(s) — optionnel légitime
+invoices,INFO,vat_eur: 672 valeur(s) nulle(s) (=0)
+invoices,INFO,"invoice_status observés: ['ISSUED', 'OVERDUE', 'PAID']"

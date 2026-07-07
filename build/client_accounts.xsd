@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="accounts">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="account" type="accountType" minOccurs="1" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="accountType">
+    <xs:sequence>
+      <xs:element name="account_id" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:pattern value="ACCT\d{5}"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="client_id" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:pattern value="CL\d{5}"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="client_name" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:minLength value="1"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="client_segment" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="HNW"/>
+            <xs:enumeration value="UHNW"/>
+            <xs:enumeration value="VHNW"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="client_country" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Belgium"/>
+            <xs:enumeration value="France"/>
+            <xs:enumeration value="Luxembourg"/>
+            <xs:enumeration value="Monaco"/>
+            <xs:enumeration value="Singapore"/>
+            <xs:enumeration value="Switzerland"/>
+            <xs:enumeration value="United Arab Emirates"/>
+            <xs:enumeration value="United Kingdom"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="tax_jurisdiction" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="AE"/>
+            <xs:enumeration value="BE"/>
+            <xs:enumeration value="CH"/>
+            <xs:enumeration value="FR"/>
+            <xs:enumeration value="LU"/>
+            <xs:enumeration value="MC"/>
+            <xs:enumeration value="SG"/>
+            <xs:enumeration value="UK"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="residence_region" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="APAC"/>
+            <xs:enumeration value="EMEA"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="source_branch" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="BR_GVA_01"/>
+            <xs:enumeration value="BR_LUX_02"/>
+            <xs:enumeration value="BR_PAR_03"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="booking_center" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Dubai"/>
+            <xs:enumeration value="Geneva"/>
+            <xs:enumeration value="Luxembourg"/>
+            <xs:enumeration value="Paris"/>
+            <xs:enumeration value="Singapore"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="risk_profile" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Balanced"/>
+            <xs:enumeration value="Conservative"/>
+            <xs:enumeration value="Dynamic"/>
+            <xs:enumeration value="Growth"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="primary_custodian" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="BNP Paribas Securities Services"/>
+            <xs:enumeration value="Clearstream"/>
+            <xs:enumeration value="Euroclear"/>
+            <xs:enumeration value="J.P. Morgan Custody"/>
+            <xs:enumeration value="SIX SIS"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="opened_date" minOccurs="1" maxOccurs="1" type="xs:date"/>
+      <xs:element name="migration_wave" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Wave 1"/>
+            <xs:enumeration value="Wave 2"/>
+            <xs:enumeration value="Wave 3"/>
+            <xs:enumeration value="Wave 4"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="account_status" minOccurs="1" maxOccurs="1">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="active"/>
+            <xs:enumeration value="closed"/>
+            <xs:enumeration value="inactive"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

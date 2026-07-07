@@ -1,0 +1,184 @@
+account_id,client_id,client_name,client_segment,client_country,tax_jurisdiction,residence_region,source_branch,booking_center,risk_profile,primary_custodian,opened_date,migration_wave,account_status
+ACCT00001,CL00036,Lucas Fontaine,HNW,United Kingdom,UK,EMEA,BR_GVA_01,Geneva,Conservative,J.P. Morgan Custody,2018-12-23,Wave 4,inactive
+ACCT00002,CL00018,Antoine Laurent,HNW,Belgium,BE,EMEA,BR_PAR_03,Paris,Balanced,J.P. Morgan Custody,2022-09-15,Wave 2,active
+ACCT00003,CL00011,Lucas Roux,HNW,Switzerland,CH,EMEA,BR_LUX_02,Geneva,Conservative,Euroclear,2020-05-31,Wave 3,inactive
+ACCT00004,CL00042,Lina Simon,HNW,Luxembourg,LU,EMEA,BR_LUX_02,Luxembourg,Balanced,BNP Paribas Securities Services,2024-01-06,Wave 1,active
+ACCT00005,CL00048,Nora Moreau,HNW,France,FR,EMEA,BR_PAR_03,Dubai,Conservative,Clearstream,2024-06-22,Wave 2,active
+ACCT00006,CL00031,Thomas Roux,HNW,France,FR,EMEA,BR_GVA_01,Singapore,Dynamic,BNP Paribas Securities Services,2021-02-12,Wave 4,active
+ACCT00007,CL00066,Mehdi Robert,HNW,Belgium,BE,EMEA,BR_LUX_02,Geneva,Balanced,SIX SIS,2024-10-31,Wave 2,inactive
+ACCT00008,CL00004,Antoine Thomas,HNW,France,FR,EMEA,BR_PAR_03,Geneva,Growth,Euroclear,2021-08-21,Wave 1,inactive
+ACCT00009,CL00009,Marie Simon,HNW,France,FR,EMEA,BR_PAR_03,Geneva,Dynamic,Clearstream,2020-05-20,Wave 4,inactive
+ACCT00010,CL00068,Antoine Simon,HNW,Luxembourg,LU,EMEA,BR_PAR_03,Geneva,Balanced,J.P. Morgan Custody,2022-10-21,Wave 4,inactive
+ACCT00011,CL00077,Nora Thomas,VHNW,France,FR,EMEA,BR_GVA_01,Dubai,Growth,Euroclear,2025-08-19,Wave 4,inactive
+ACCT00012,CL00075,Jean Vincent,HNW,France,FR,EMEA,BR_LUX_02,Luxembourg,Conservative,SIX SIS,2025-08-18,Wave 1,closed
+ACCT00013,CL00028,Paul Durand,HNW,France,FR,EMEA,BR_LUX_02,Luxembourg,Balanced,BNP Paribas Securities Services,2018-01-14,Wave 3,active
+ACCT00014,CL00019,Nora Vincent,HNW,Luxembourg,LU,EMEA,BR_LUX_02,Singapore,Conservative,J.P. Morgan Custody,2024-10-30,Wave 2,closed
+ACCT00015,CL00024,Lea Martin,UHNW,Belgium,BE,EMEA,BR_GVA_01,Singapore,Conservative,BNP Paribas Securities Services,2018-03-21,Wave 1,active
+ACCT00016,CL00041,Antoine Fontaine,HNW,Belgium,BE,EMEA,BR_GVA_01,Singapore,Conservative,BNP Paribas Securities Services,2018-10-11,Wave 2,active
+ACCT00017,CL00014,Emma Roux,UHNW,Monaco,MC,EMEA,BR_PAR_03,Luxembourg,Growth,Euroclear,2024-01-18,Wave 2,active
+ACCT00018,CL00040,Nora Durand,HNW,Singapore,SG,APAC,BR_GVA_01,Luxembourg,Balanced,SIX SIS,2021-10-16,Wave 1,inactive
+ACCT00019,CL00074,Lea Robert,HNW,France,FR,EMEA,BR_PAR_03,Geneva,Balanced,SIX SIS,2018-05-09,Wave 3,inactive
+ACCT00020,CL00020,Nora Leroy,VHNW,France,FR,EMEA,BR_GVA_01,Geneva,Growth,J.P. Morgan Custody,2024-06-18,Wave 4,inactive
+ACCT00021,CL00049,Julien Petit,VHNW,Switzerland,CH,EMEA,BR_LUX_02,Geneva,Balanced,BNP Paribas Securities Services,2023-03-28,Wave 1,inactive
+ACCT00022,CL00021,Sara Michel,HNW,France,FR,EMEA,BR_GVA_01,Luxembourg,Balanced,Euroclear,2024-01-06,Wave 4,active
+ACCT00023,CL00006,Marie Durand,VHNW,Belgium,BE,EMEA,BR_GVA_01,Singapore,Dynamic,J.P. Morgan Custody,2019-02-06,Wave 1,active
+ACCT00024,CL00049,Julien Petit,VHNW,Switzerland,CH,EMEA,BR_GVA_01,Singapore,Balanced,BNP Paribas Securities Services,2023-05-26,Wave 2,closed
+ACCT00025,CL00032,Lea Moreau,VHNW,Switzerland,CH,EMEA,BR_LUX_02,Singapore,Balanced,BNP Paribas Securities Services,2021-03-14,Wave 4,inactive
+ACCT00026,CL00023,Emma Leroy,HNW,France,FR,EMEA,BR_GVA_01,Geneva,Balanced,J.P. Morgan Custody,2018-09-07,Wave 3,inactive
+ACCT00027,CL00034,Thomas Leroy,HNW,Belgium,BE,EMEA,BR_GVA_01,Dubai,Conservative,J.P. Morgan Custody,2018-11-25,Wave 2,active
+ACCT00028,CL00009,Marie Simon,HNW,France,FR,EMEA,BR_PAR_03,Singapore,Dynamic,J.P. Morgan Custody,2018-06-12,Wave 1,active
+ACCT00029,CL00083,Nicolas Fontaine,HNW,United Kingdom,UK,EMEA,BR_GVA_01,Singapore,Dynamic,Clearstream,2020-09-04,Wave 3,active
+ACCT00030,CL00032,Lea Moreau,VHNW,Switzerland,CH,EMEA,BR_GVA_01,Dubai,Balanced,J.P. Morgan Custody,2024-04-25,Wave 1,inactive
+ACCT00031,CL00043,Claire Martin,HNW,France,FR,EMEA,BR_GVA_01,Singapore,Growth,Clearstream,2021-03-13,Wave 2,active
+ACCT00032,CL00045,Ines Fontaine,HNW,Switzerland,CH,EMEA,BR_PAR_03,Singapore,Growth,J.P. Morgan Custody,2021-05-11,Wave 1,active
+ACCT00033,CL00083,Nicolas Fontaine,HNW,United Kingdom,UK,EMEA,BR_PAR_03,Geneva,Dynamic,Clearstream,2024-10-13,Wave 2,inactive
+ACCT00034,CL00028,Paul Durand,HNW,France,FR,EMEA,BR_GVA_01,Geneva,Balanced,BNP Paribas Securities Services,2021-02-07,Wave 1,inactive
+ACCT00035,CL00051,Mehdi Robin,VHNW,Monaco,MC,EMEA,BR_PAR_03,Luxembourg,Growth,SIX SIS,2019-04-04,Wave 1,closed
+ACCT00036,CL00026,Lea David,HNW,Belgium,BE,EMEA,BR_PAR_03,Luxembourg,Growth,Euroclear,2018-06-21,Wave 3,active
+ACCT00037,CL00049,Julien Petit,VHNW,Switzerland,CH,EMEA,BR_GVA_01,Geneva,Balanced,J.P. Morgan Custody,2022-07-23,Wave 2,inactive
+ACCT00038,CL00084,Nora Vincent,VHNW,France,FR,EMEA,BR_LUX_02,Dubai,Growth,Clearstream,2022-08-14,Wave 2,active
+ACCT00039,CL00016,Ines Durand,HNW,United Kingdom,UK,EMEA,BR_GVA_01,Dubai,Conservative,BNP Paribas Securities Services,2021-12-03,Wave 3,inactive
+ACCT00040,CL00070,Sara Garcia,VHNW,Belgium,BE,EMEA,BR_LUX_02,Geneva,Balanced,SIX SIS,2021-02-17,Wave 3,inactive
+ACCT00041,CL00045,Ines Fontaine,HNW,Switzerland,CH,EMEA,BR_LUX_02,Geneva,Growth,Clearstream,2018-06-06,Wave 1,inactive
+ACCT00042,CL00038,Nora Richard,UHNW,United Kingdom,UK,EMEA,BR_GVA_01,Singapore,Conservative,J.P. Morgan Custody,2020-02-18,Wave 3,active
+ACCT00043,CL00081,Julien Petit,HNW,United Kingdom,UK,EMEA,BR_PAR_03,Dubai,Conservative,Euroclear,2022-01-31,Wave 4,active
+ACCT00044,CL00087,Louis Leroy,HNW,Switzerland,CH,EMEA,BR_PAR_03,Dubai,Dynamic,J.P. Morgan Custody,2021-06-20,Wave 4,closed
+ACCT00045,CL00067,Julien Leroy,HNW,Switzerland,CH,EMEA,BR_LUX_02,Luxembourg,Balanced,Euroclear,2024-11-26,Wave 3,active
+ACCT00046,CL00070,Sara Garcia,VHNW,Belgium,BE,EMEA,BR_PAR_03,Luxembourg,Balanced,Clearstream,2023-03-20,Wave 4,inactive
+ACCT00047,CL00073,Nicolas Robin,HNW,United Arab Emirates,AE,EMEA,BR_PAR_03,Singapore,Balanced,SIX SIS,2021-03-08,Wave 3,closed
+ACCT00048,CL00006,Marie Durand,VHNW,Belgium,BE,EMEA,BR_GVA_01,Geneva,Dynamic,BNP Paribas Securities Services,2024-11-08,Wave 1,inactive
+ACCT00049,CL00052,Sara Garcia,HNW,United Arab Emirates,AE,EMEA,BR_LUX_02,Luxembourg,Balanced,SIX SIS,2019-03-13,Wave 4,active
+ACCT00050,CL00002,Paul Petit,HNW,France,FR,EMEA,BR_GVA_01,Geneva,Conservative,BNP Paribas Securities Services,2025-06-27,Wave 3,inactive
+ACCT00051,CL00050,Nicolas Garcia,HNW,France,FR,EMEA,BR_LUX_02,Singapore,Balanced,J.P. Morgan Custody,2023-01-01,Wave 2,active
+ACCT00052,CL00027,Julien David,HNW,France,FR,EMEA,BR_PAR_03,Geneva,Conservative,J.P. Morgan Custody,2023-06-08,Wave 2,inactive
+ACCT00053,CL00030,Ines Garcia,HNW,Switzerland,CH,EMEA,BR_PAR_03,Luxembourg,Conservative,Euroclear,2020-08-05,Wave 4,active
+ACCT00054,CL00072,Sophie Petit,HNW,France,FR,EMEA,BR_LUX_02,Luxembourg,Conservative,Euroclear,2022-09-17,Wave 4,closed
+ACCT00055,CL00014,Emma Roux,UHNW,Monaco,MC,EMEA,BR_LUX_02,Dubai,Growth,Clearstream,2021-05-08,Wave 4,closed
+ACCT00056,CL00047,Thomas Roux,HNW,Switzerland,CH,EMEA,BR_PAR_03,Paris,Conservative,BNP Paribas Securities Services,2020-06-17,Wave 3,active
+ACCT00057,CL00067,Julien Leroy,HNW,Switzerland,CH,EMEA,BR_LUX_02,Paris,Balanced,BNP Paribas Securities Services,2019-06-07,Wave 1,active
+ACCT00058,CL00064,Ines Robin,VHNW,France,FR,EMEA,BR_LUX_02,Geneva,Growth,BNP Paribas Securities Services,2020-01-15,Wave 1,inactive
+ACCT00059,CL00033,Lucas Leroy,HNW,United Kingdom,UK,EMEA,BR_LUX_02,Luxembourg,Conservative,BNP Paribas Securities Services,2020-10-30,Wave 1,closed
+ACCT00060,CL00034,Thomas Leroy,HNW,Belgium,BE,EMEA,BR_PAR_03,Luxembourg,Conservative,SIX SIS,2018-05-08,Wave 2,active
+ACCT00061,CL00054,Thomas Dubois,HNW,Belgium,BE,EMEA,BR_PAR_03,Geneva,Balanced,Euroclear,2023-03-20,Wave 3,inactive
+ACCT00062,CL00009,Marie Simon,HNW,France,FR,EMEA,BR_GVA_01,Dubai,Dynamic,Euroclear,2021-06-28,Wave 1,active
+ACCT00063,CL00071,Nicolas Laurent,HNW,Switzerland,CH,EMEA,BR_LUX_02,Singapore,Balanced,Euroclear,2018-11-08,Wave 2,active
+ACCT00064,CL00019,Nora Vincent,HNW,Luxembourg,LU,EMEA,BR_PAR_03,Dubai,Conservative,Clearstream,2023-12-23,Wave 4,active
+ACCT00065,CL00083,Nicolas Fontaine,HNW,United Kingdom,UK,EMEA,BR_LUX_02,Geneva,Dynamic,SIX SIS,2022-11-11,Wave 3,inactive
+ACCT00066,CL00018,Antoine Laurent,HNW,Belgium,BE,EMEA,BR_PAR_03,Dubai,Balanced,J.P. Morgan Custody,2023-06-04,Wave 4,active
+ACCT00067,CL00077,Nora Thomas,VHNW,France,FR,EMEA,BR_GVA_01,Geneva,Growth,BNP Paribas Securities Services,2020-09-25,Wave 4,inactive
+ACCT00068,CL00065,Paul Roux,VHNW,Belgium,BE,EMEA,BR_GVA_01,Dubai,Growth,Clearstream,2020-11-24,Wave 3,inactive
+ACCT00069,CL00050,Nicolas Garcia,HNW,France,FR,EMEA,BR_GVA_01,Luxembourg,Balanced,BNP Paribas Securities Services,2023-06-25,Wave 2,active
+ACCT00070,CL00011,Lucas Roux,HNW,Switzerland,CH,EMEA,BR_GVA_01,Geneva,Conservative,Euroclear,2021-06-08,Wave 3,inactive
+ACCT00071,CL00017,Sara Fontaine,HNW,France,FR,EMEA,BR_LUX_02,Dubai,Balanced,BNP Paribas Securities Services,2021-01-14,Wave 3,active
+ACCT00072,CL00069,Camille Leroy,VHNW,France,FR,EMEA,BR_PAR_03,Dubai,Conservative,Euroclear,2023-06-07,Wave 3,active
+ACCT00073,CL00017,Sara Fontaine,HNW,France,FR,EMEA,BR_GVA_01,Geneva,Balanced,Clearstream,2020-01-05,Wave 3,inactive
+ACCT00074,CL00007,Lina Richard,HNW,Belgium,BE,EMEA,BR_PAR_03,Singapore,Growth,Euroclear,2025-02-25,Wave 4,closed
+ACCT00075,CL00087,Louis Leroy,HNW,Switzerland,CH,EMEA,BR_LUX_02,Luxembourg,Dynamic,SIX SIS,2020-10-31,Wave 4,active
+ACCT00076,CL00077,Nora Thomas,VHNW,France,FR,EMEA,BR_PAR_03,Paris,Growth,Euroclear,2024-04-24,Wave 3,active
+ACCT00077,CL00014,Emma Roux,UHNW,Monaco,MC,EMEA,BR_PAR_03,Luxembourg,Growth,Euroclear,2023-11-11,Wave 4,active
+ACCT00078,CL00062,Emma Robin,VHNW,United Arab Emirates,AE,EMEA,BR_LUX_02,Singapore,Growth,SIX SIS,2024-11-02,Wave 1,active
+ACCT00079,CL00016,Ines Durand,HNW,United Kingdom,UK,EMEA,BR_GVA_01,Geneva,Conservative,SIX SIS,2019-10-04,Wave 1,inactive
+ACCT00080,CL00041,Antoine Fontaine,HNW,Belgium,BE,EMEA,BR_PAR_03,Geneva,Conservative,BNP Paribas Securities Services,2018-10-19,Wave 2,inactive
+ACCT00081,CL00041,Antoine Fontaine,HNW,Belgium,BE,EMEA,BR_PAR_03,Paris,Conservative,Clearstream,2019-08-06,Wave 1,active
+ACCT00082,CL00061,Jean Robin,HNW,France,FR,EMEA,BR_LUX_02,Paris,Conservative,BNP Paribas Securities Services,2021-05-30,Wave 4,closed
+ACCT00083,CL00071,Nicolas Laurent,HNW,Switzerland,CH,EMEA,BR_GVA_01,Geneva,Balanced,Clearstream,2024-10-08,Wave 3,inactive
+ACCT00084,CL00089,Ines Garcia,UHNW,Luxembourg,LU,EMEA,BR_PAR_03,Geneva,Dynamic,J.P. Morgan Custody,2018-06-14,Wave 2,inactive
+ACCT00085,CL00007,Lina Richard,HNW,Belgium,BE,EMEA,BR_PAR_03,Paris,Growth,SIX SIS,2023-04-10,Wave 3,closed
+ACCT00086,CL00070,Sara Garcia,VHNW,Belgium,BE,EMEA,BR_PAR_03,Luxembourg,Balanced,BNP Paribas Securities Services,2024-03-03,Wave 1,active
+ACCT00087,CL00033,Lucas Leroy,HNW,United Kingdom,UK,EMEA,BR_LUX_02,Singapore,Conservative,SIX SIS,2025-05-17,Wave 4,active
+ACCT00088,CL00080,Camille David,HNW,Switzerland,CH,EMEA,BR_PAR_03,Dubai,Balanced,SIX SIS,2020-04-13,Wave 3,active
+ACCT00089,CL00022,Sophie Bernard,HNW,Belgium,BE,EMEA,BR_GVA_01,Luxembourg,Balanced,J.P. Morgan Custody,2020-09-07,Wave 2,inactive
+ACCT00090,CL00074,Lea Robert,HNW,France,FR,EMEA,BR_GVA_01,Geneva,Balanced,SIX SIS,2025-04-07,Wave 2,inactive
+ACCT00091,CL00004,Antoine Thomas,HNW,France,FR,EMEA,BR_LUX_02,Luxembourg,Growth,Euroclear,2023-02-14,Wave 2,active
+ACCT00092,CL00080,Camille David,HNW,Switzerland,CH,EMEA,BR_GVA_01,Geneva,Balanced,BNP Paribas Securities Services,2021-10-24,Wave 3,inactive
+ACCT00093,CL00037,Marie Laurent,HNW,Switzerland,CH,EMEA,BR_PAR_03,Paris,Balanced,Euroclear,2023-01-04,Wave 4,active
+ACCT00094,CL00079,Thomas Petit,HNW,United Kingdom,UK,EMEA,BR_GVA_01,Singapore,Conservative,Euroclear,2024-05-31,Wave 4,active
+ACCT00095,CL00060,Lea Bernard,UHNW,Switzerland,CH,EMEA,BR_LUX_02,Luxembourg,Conservative,Euroclear,2023-07-22,Wave 1,active
+ACCT00096,CL00068,Antoine Simon,HNW,Luxembourg,LU,EMEA,BR_LUX_02,Singapore,Balanced,BNP Paribas Securities Services,2018-03-04,Wave 2,active
+ACCT00097,CL00039,Sophie Lefebvre,UHNW,France,FR,EMEA,BR_LUX_02,Singapore,Conservative,BNP Paribas Securities Services,2025-04-15,Wave 1,active
+ACCT00098,CL00069,Camille Leroy,VHNW,France,FR,EMEA,BR_LUX_02,Paris,Conservative,SIX SIS,2024-12-04,Wave 1,inactive
+ACCT00099,CL00068,Antoine Simon,HNW,Luxembourg,LU,EMEA,BR_GVA_01,Luxembourg,Balanced,SIX SIS,2022-12-23,Wave 2,active
+ACCT00100,CL00059,Louis Petit,HNW,France,FR,EMEA,BR_LUX_02,Geneva,Balanced,Euroclear,2020-09-27,Wave 4,inactive
+ACCT00101,CL00057,Jean Lefebvre,HNW,Switzerland,CH,EMEA,BR_LUX_02,Paris,Growth,Euroclear,2023-08-01,Wave 2,active
+ACCT00102,CL00056,Claire Fontaine,VHNW,Singapore,SG,APAC,BR_LUX_02,Geneva,Dynamic,J.P. Morgan Custody,2019-10-10,Wave 1,inactive
+ACCT00103,CL00015,Emma Fontaine,UHNW,France,FR,EMEA,BR_PAR_03,Singapore,Growth,Clearstream,2020-03-26,Wave 4,inactive
+ACCT00104,CL00086,Louis Thomas,UHNW,Switzerland,CH,EMEA,BR_LUX_02,Luxembourg,Balanced,Clearstream,2018-03-31,Wave 4,active
+ACCT00105,CL00032,Lea Moreau,VHNW,Switzerland,CH,EMEA,BR_LUX_02,Dubai,Balanced,Euroclear,2024-10-22,Wave 3,active
+ACCT00106,CL00001,Jean Leroy,HNW,Belgium,BE,EMEA,BR_PAR_03,Dubai,Growth,Euroclear,2025-01-17,Wave 1,inactive
+ACCT00107,CL00084,Nora Vincent,VHNW,France,FR,EMEA,BR_LUX_02,Geneva,Growth,SIX SIS,2021-04-23,Wave 3,inactive
+ACCT00108,CL00003,Hugo Martin,VHNW,Switzerland,CH,EMEA,BR_LUX_02,Luxembourg,Balanced,Clearstream,2019-11-05,Wave 3,active
+ACCT00109,CL00017,Sara Fontaine,HNW,France,FR,EMEA,BR_GVA_01,Luxembourg,Balanced,SIX SIS,2019-07-31,Wave 2,active
+ACCT00110,CL00038,Nora Richard,UHNW,United Kingdom,UK,EMEA,BR_GVA_01,Dubai,Conservative,SIX SIS,2023-02-06,Wave 3,inactive
+ACCT00111,CL00063,Ines Vincent,VHNW,Luxembourg,LU,EMEA,BR_LUX_02,Paris,Dynamic,Euroclear,2023-04-16,Wave 1,inactive
+ACCT00112,CL00059,Louis Petit,HNW,France,FR,EMEA,BR_GVA_01,Geneva,Balanced,BNP Paribas Securities Services,2021-05-22,Wave 4,inactive
+ACCT00113,CL00087,Louis Leroy,HNW,Switzerland,CH,EMEA,BR_GVA_01,Luxembourg,Dynamic,J.P. Morgan Custody,2019-07-10,Wave 4,active
+ACCT00114,CL00027,Julien David,HNW,France,FR,EMEA,BR_LUX_02,Dubai,Conservative,BNP Paribas Securities Services,2024-11-26,Wave 4,closed
+ACCT00115,CL00032,Lea Moreau,VHNW,Switzerland,CH,EMEA,BR_LUX_02,Geneva,Balanced,Clearstream,2019-02-11,Wave 3,inactive
+ACCT00116,CL00066,Mehdi Robert,HNW,Belgium,BE,EMEA,BR_GVA_01,Geneva,Balanced,BNP Paribas Securities Services,2019-01-11,Wave 2,inactive
+ACCT00117,CL00036,Lucas Fontaine,HNW,United Kingdom,UK,EMEA,BR_GVA_01,Luxembourg,Conservative,Euroclear,2018-10-09,Wave 2,inactive
+ACCT00118,CL00029,Julien Vincent,HNW,Switzerland,CH,EMEA,BR_PAR_03,Dubai,Growth,Euroclear,2019-06-17,Wave 3,inactive
+ACCT00119,CL00088,Thomas Roux,HNW,Switzerland,CH,EMEA,BR_GVA_01,Luxembourg,Balanced,SIX SIS,2019-12-15,Wave 3,inactive
+ACCT00120,CL00044,Louis Robin,HNW,France,FR,EMEA,BR_LUX_02,Geneva,Dynamic,J.P. Morgan Custody,2024-08-28,Wave 1,inactive
+ACCT00121,CL00015,Emma Fontaine,UHNW,France,FR,EMEA,BR_PAR_03,Dubai,Growth,BNP Paribas Securities Services,2025-03-20,Wave 1,active
+ACCT00122,CL00008,Nora Richard,HNW,Luxembourg,LU,EMEA,BR_PAR_03,Geneva,Growth,SIX SIS,2018-11-27,Wave 3,inactive
+ACCT00123,CL00042,Lina Simon,HNW,Luxembourg,LU,EMEA,BR_PAR_03,Paris,Balanced,BNP Paribas Securities Services,2024-09-12,Wave 3,active
+ACCT00124,CL00056,Claire Fontaine,VHNW,Singapore,SG,APAC,BR_PAR_03,Paris,Dynamic,J.P. Morgan Custody,2020-05-30,Wave 4,active
+ACCT00125,CL00063,Ines Vincent,VHNW,Luxembourg,LU,EMEA,BR_LUX_02,Luxembourg,Dynamic,Clearstream,2022-10-15,Wave 3,closed
+ACCT00126,CL00062,Emma Robin,VHNW,United Arab Emirates,AE,EMEA,BR_GVA_01,Luxembourg,Growth,SIX SIS,2022-11-04,Wave 1,active
+ACCT00127,CL00008,Nora Richard,HNW,Luxembourg,LU,EMEA,BR_PAR_03,Paris,Growth,SIX SIS,2022-08-10,Wave 3,active
+ACCT00128,CL00009,Marie Simon,HNW,France,FR,EMEA,BR_LUX_02,Paris,Dynamic,J.P. Morgan Custody,2020-05-21,Wave 2,closed
+ACCT00129,CL00081,Julien Petit,HNW,United Kingdom,UK,EMEA,BR_GVA_01,Paris,Conservative,J.P. Morgan Custody,2020-07-15,Wave 4,closed
+ACCT00130,CL00065,Paul Roux,VHNW,Belgium,BE,EMEA,BR_PAR_03,Paris,Growth,Clearstream,2018-04-29,Wave 2,active
+ACCT00131,CL00055,Julien Martin,UHNW,United Kingdom,UK,EMEA,BR_GVA_01,Geneva,Balanced,BNP Paribas Securities Services,2018-10-13,Wave 2,inactive
+ACCT00132,CL00007,Lina Richard,HNW,Belgium,BE,EMEA,BR_LUX_02,Geneva,Growth,Euroclear,2022-02-24,Wave 3,inactive
+ACCT00133,CL00046,Jean Moreau,HNW,Switzerland,CH,EMEA,BR_GVA_01,Geneva,Growth,SIX SIS,2025-07-23,Wave 1,inactive
+ACCT00134,CL00068,Antoine Simon,HNW,Luxembourg,LU,EMEA,BR_GVA_01,Luxembourg,Balanced,SIX SIS,2021-11-14,Wave 4,active
+ACCT00135,CL00021,Sara Michel,HNW,France,FR,EMEA,BR_GVA_01,Geneva,Balanced,J.P. Morgan Custody,2018-08-13,Wave 1,inactive
+ACCT00136,CL00075,Jean Vincent,HNW,France,FR,EMEA,BR_GVA_01,Geneva,Conservative,BNP Paribas Securities Services,2019-12-21,Wave 2,inactive
+ACCT00137,CL00008,Nora Richard,HNW,Luxembourg,LU,EMEA,BR_LUX_02,Paris,Growth,SIX SIS,2022-11-22,Wave 1,closed
+ACCT00138,CL00074,Lea Robert,HNW,France,FR,EMEA,BR_PAR_03,Paris,Balanced,Clearstream,2019-04-17,Wave 4,active
+ACCT00139,CL00078,Mehdi Moreau,UHNW,Switzerland,CH,EMEA,BR_PAR_03,Paris,Growth,SIX SIS,2022-11-24,Wave 1,closed
+ACCT00140,CL00005,Antoine Dubois,VHNW,Monaco,MC,EMEA,BR_LUX_02,Luxembourg,Dynamic,Euroclear,2021-09-26,Wave 2,closed
+ACCT00141,CL00043,Claire Martin,HNW,France,FR,EMEA,BR_LUX_02,Singapore,Growth,Euroclear,2020-08-25,Wave 1,closed
+ACCT00142,CL00080,Camille David,HNW,Switzerland,CH,EMEA,BR_PAR_03,Dubai,Balanced,BNP Paribas Securities Services,2023-03-16,Wave 4,inactive
+ACCT00143,CL00082,Ines Robin,VHNW,France,FR,EMEA,BR_LUX_02,Singapore,Balanced,SIX SIS,2023-04-05,Wave 4,inactive
+ACCT00144,CL00066,Mehdi Robert,HNW,Belgium,BE,EMEA,BR_LUX_02,Luxembourg,Balanced,SIX SIS,2018-08-22,Wave 3,active
+ACCT00145,CL00040,Nora Durand,HNW,Singapore,SG,APAC,BR_LUX_02,Luxembourg,Balanced,SIX SIS,2023-01-17,Wave 2,active
+ACCT00146,CL00087,Louis Leroy,HNW,Switzerland,CH,EMEA,BR_GVA_01,Geneva,Dynamic,Clearstream,2018-12-12,Wave 2,inactive
+ACCT00147,CL00076,Paul Lefebvre,HNW,France,FR,EMEA,BR_LUX_02,Paris,Conservative,Clearstream,2022-05-06,Wave 4,closed
+ACCT00148,CL00041,Antoine Fontaine,HNW,Belgium,BE,EMEA,BR_GVA_01,Paris,Conservative,J.P. Morgan Custody,2025-08-10,Wave 4,active
+ACCT00149,CL00025,Marie Richard,HNW,Singapore,SG,APAC,BR_GVA_01,Paris,Dynamic,Clearstream,2025-05-11,Wave 4,active
+ACCT00150,CL00061,Jean Robin,HNW,France,FR,EMEA,BR_LUX_02,Paris,Conservative,J.P. Morgan Custody,2019-01-18,Wave 4,active
+ACCT00151,CL00058,Julien Vincent,VHNW,United Kingdom,UK,EMEA,BR_LUX_02,Singapore,Conservative,BNP Paribas Securities Services,2020-02-26,Wave 2,active
+ACCT00152,CL00059,Louis Petit,HNW,France,FR,EMEA,BR_PAR_03,Dubai,Balanced,J.P. Morgan Custody,2018-06-04,Wave 3,closed
+ACCT00153,CL00042,Lina Simon,HNW,Luxembourg,LU,EMEA,BR_GVA_01,Geneva,Balanced,J.P. Morgan Custody,2019-11-10,Wave 4,inactive
+ACCT00154,CL00063,Ines Vincent,VHNW,Luxembourg,LU,EMEA,BR_PAR_03,Paris,Dynamic,Euroclear,2023-12-28,Wave 2,active
+ACCT00155,CL00025,Marie Richard,HNW,Singapore,SG,APAC,BR_LUX_02,Singapore,Dynamic,Clearstream,2022-04-14,Wave 4,active
+ACCT00156,CL00053,Paul Moreau,HNW,France,FR,EMEA,BR_PAR_03,Geneva,Conservative,Clearstream,2024-03-21,Wave 1,inactive
+ACCT00157,CL00046,Jean Moreau,HNW,Switzerland,CH,EMEA,BR_LUX_02,Dubai,Growth,J.P. Morgan Custody,2019-08-27,Wave 4,active
+ACCT00158,CL00010,Mehdi Robert,HNW,Switzerland,CH,EMEA,BR_LUX_02,Singapore,Balanced,J.P. Morgan Custody,2022-03-12,Wave 2,inactive
+ACCT00159,CL00035,Lucas Leroy,HNW,France,FR,EMEA,BR_GVA_01,Geneva,Balanced,Clearstream,2019-08-22,Wave 2,inactive
+ACCT00160,CL00044,Louis Robin,HNW,France,FR,EMEA,BR_PAR_03,Luxembourg,Dynamic,SIX SIS,2018-03-19,Wave 3,active
+ACCT00161,CL00070,Sara Garcia,VHNW,Belgium,BE,EMEA,BR_LUX_02,Paris,Balanced,Clearstream,2020-08-31,Wave 3,active
+ACCT00162,CL00058,Julien Vincent,VHNW,United Kingdom,UK,EMEA,BR_GVA_01,Paris,Conservative,BNP Paribas Securities Services,2024-09-10,Wave 1,active
+ACCT00163,CL00040,Nora Durand,HNW,Singapore,SG,APAC,BR_GVA_01,Geneva,Balanced,Euroclear,2024-05-26,Wave 4,inactive
+ACCT00164,CL00085,Mehdi Leroy,HNW,Switzerland,CH,EMEA,BR_PAR_03,Geneva,Growth,J.P. Morgan Custody,2024-03-19,Wave 1,inactive
+ACCT00165,CL00012,Antoine Lefebvre,VHNW,Luxembourg,LU,EMEA,BR_LUX_02,Singapore,Dynamic,Clearstream,2018-10-04,Wave 3,active
+ACCT00166,CL00075,Jean Vincent,HNW,France,FR,EMEA,BR_GVA_01,Luxembourg,Conservative,Clearstream,2025-03-17,Wave 2,closed
+ACCT00167,CL00047,Thomas Roux,HNW,Switzerland,CH,EMEA,BR_GVA_01,Dubai,Conservative,BNP Paribas Securities Services,2018-06-01,Wave 3,active
+ACCT00168,CL00057,Jean Lefebvre,HNW,Switzerland,CH,EMEA,BR_LUX_02,Geneva,Growth,J.P. Morgan Custody,2023-04-24,Wave 3,inactive
+ACCT00169,CL00036,Lucas Fontaine,HNW,United Kingdom,UK,EMEA,BR_PAR_03,Dubai,Conservative,SIX SIS,2022-02-16,Wave 4,active
+ACCT00170,CL00028,Paul Durand,HNW,France,FR,EMEA,BR_PAR_03,Geneva,Balanced,J.P. Morgan Custody,2020-12-28,Wave 1,inactive
+ACCT00171,CL00050,Nicolas Garcia,HNW,France,FR,EMEA,BR_PAR_03,Dubai,Balanced,SIX SIS,2018-11-24,Wave 3,active
+ACCT00172,CL00039,Sophie Lefebvre,UHNW,France,FR,EMEA,BR_PAR_03,Luxembourg,Conservative,BNP Paribas Securities Services,2018-06-23,Wave 3,inactive
+ACCT00173,CL00013,Lea Leroy,VHNW,Belgium,BE,EMEA,BR_GVA_01,Dubai,Balanced,BNP Paribas Securities Services,2022-01-28,Wave 2,inactive
+ACCT00174,CL00038,Nora Richard,UHNW,United Kingdom,UK,EMEA,BR_GVA_01,Luxembourg,Conservative,Clearstream,2022-01-23,Wave 4,closed
+ACCT00175,CL00075,Jean Vincent,HNW,France,FR,EMEA,BR_LUX_02,Luxembourg,Conservative,SIX SIS,2024-06-08,Wave 2,active
+ACCT00176,CL00064,Ines Robin,VHNW,France,FR,EMEA,BR_GVA_01,Geneva,Growth,Euroclear,2023-08-07,Wave 4,inactive
+ACCT00177,CL00012,Antoine Lefebvre,VHNW,Luxembourg,LU,EMEA,BR_GVA_01,Paris,Dynamic,Clearstream,2023-07-05,Wave 2,active
+ACCT00178,CL00060,Lea Bernard,UHNW,Switzerland,CH,EMEA,BR_GVA_01,Paris,Conservative,Clearstream,2025-06-28,Wave 3,inactive
+ACCT00179,CL00040,Nora Durand,HNW,Singapore,SG,APAC,BR_GVA_01,Geneva,Balanced,Euroclear,2022-01-20,Wave 2,inactive
+ACCT00180,CL00060,Lea Bernard,UHNW,Switzerland,CH,EMEA,BR_LUX_02,Luxembourg,Conservative,Clearstream,2023-03-30,Wave 2,closed
+ACCT00164,CL00085,Mehdi Leroy,HNW,Switzerland,CH,EMEA,BR_PAR_03,Geneva,Growth,J.P. Morgan Custody,2024-03-19,Wave 1,inactive
+ACCT00137,CL00008,Nora Richard,HNW,Luxembourg,LU,EMEA,BR_LUX_02,Paris,Growth,SIX SIS,2022-11-22,Wave 1,closed
+ACCT00019,CL00074,Lea Robert,HNW,France,FR,EMEA,BR_PAR_03,Geneva,Balanced,SIX SIS,2018-05-09,Wave 3,inactive
